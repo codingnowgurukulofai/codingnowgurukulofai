@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=CodingNow%20AI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=18" width="100%" />
 
-# 🚀 Learn AI with Real Projects
+# Learn AI with Real Projects
 
 ### Generative AI • Agentic AI • Python Full Stack • LangChain • RAG
 
@@ -24,23 +24,23 @@
 
 ---
 
-# 💡 About CodingNow AI
+#  About CodingNow AI
 
 CodingNow AI is focused on providing **industry-ready training** in:
 
-- 🤖 Generative AI
-- 🧠 Agentic AI
-- 🐍 Python Full Stack
-- ⚡ LangChain
-- 🔥 OpenAI API
-- 📚 RAG Applications
-- ☁️ AWS & DevOps
-- 🌐 MERN Stack
-- 🎯 Real-world Projects
+-  Generative AI
+- Agentic AI
+-  Python Full Stack
+-  LangChain
+-  OpenAI API
+-  RAG Applications
+-  AWS & DevOps
+-  MERN Stack
+-  Real-world Projects
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -50,7 +50,7 @@ CodingNow AI is focused on providing **industry-ready training** in:
 
 ---
 
-# 🔥 Featured AI Projects
+#  Featured AI Projects
 
 | Project | Description |
 |---|---|
@@ -62,7 +62,7 @@ CodingNow AI is focused on providing **industry-ready training** in:
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ CodingNow AI is focused on providing **industry-ready training** in:
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -84,7 +84,7 @@ CodingNow AI is focused on providing **industry-ready training** in:
 
 ---
 
-# 🌍 Connect With CodingNow AI
+# Connect With CodingNow AI
 
 <p align="center">
 
@@ -108,7 +108,7 @@ CodingNow AI is focused on providing **industry-ready training** in:
 
 ---
 
-# 📚 SEO Keywords
+# SEO Keywords
 
 Generative AI Course  
 Agentic AI Training  
