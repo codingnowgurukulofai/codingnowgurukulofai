@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Website-CodingNowAI-blue?style=for-the-badge&logo=googlechrome">
   </a>
 
-  <a href="https://youtube.com/@codingnow">
+  <a href="https://www.youtube.com/@GurukulOf_Ai">
     <img src="https://img.shields.io/badge/YouTube-CodingNow-red?style=for-the-badge&logo=youtube">
   </a>
 
